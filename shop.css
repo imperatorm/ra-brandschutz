@@ -1,5 +1,5 @@
-<style>
-<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet"><style> :root
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&family=Barlow:wght@300;400;500;600&display=swap");
+:root
 {
   --red: #8b1a1a;
   --red-dark: #6b1212;
@@ -1736,4 +1736,3 @@ footer a {
     gap: 20px;
   }
 }
-</style>
