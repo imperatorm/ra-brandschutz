@@ -892,6 +892,28 @@ window.Webflow.push(() => {
     });
   });
 
+  Object.assign(window, {
+    showTab,
+    changeQty,
+    addToCart,
+    cartQty,
+    cartSetQty,
+    removeFromCart,
+    selectDelivery,
+    placeOrder,
+    newOrder,
+    openAddModal,
+    openEditModal,
+    closeModal,
+    saveArticle,
+    deleteArticle,
+    handleImageUpload,
+    removeImage,
+    requestAdmin,
+    closeAdminModal,
+    checkAdminPw,
+  });
+
   // ===== INIT =====
   function initShop() {
     renderShop();
